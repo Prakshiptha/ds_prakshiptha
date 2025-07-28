@@ -13,3 +13,6 @@ Name:Vudumula Prakshiptha
 Email: prakshipthareddy@gmail.com
 ## Google Collab link
 link:https://colab.research.google.com/drive/1ZGHVSnLSMtyjw1eLt_dIsKFFnzzNUGN2?usp=sharing
+## Note
+The full historical_data.csv is zipped due to file size.
+Please unzip historical_data.zip inside the csv_files/ folder before running the notebook.
